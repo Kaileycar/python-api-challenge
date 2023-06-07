@@ -5,7 +5,7 @@ I set the units for the API to be imperial so the temperature could be easier to
 # API's Used:
 I got all of my information for the WeatherPy assignment off of "Open Weather" and all of my information on the VacationPy from both "Geoapify" and the "cities.csv" I saved from the WeatherPy assignment.
 
-#What I did:
+# What I did:
 Module 6 took me 2 days to complete. I spent one day on the WeatherPy and one day on the VacationPy. With all the class examples from week 6, it helped with building some of my code and seeing how each new function worked, especially for building the url for the API's. The class activities also helped me figure out how to find the first hotel in a set radius using the filter and bias parameters. 
 
 # Helpful links:
